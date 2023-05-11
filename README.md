@@ -27,7 +27,7 @@
 
 <!-- Tags - 2 -->
 <p align = "center">
-  <a href = "https://github.com/jaykali/maskphish/releases/tag/2.0">
+  <a href = "https://github.com/HEDI95/adei.git/releases/tag/2.0">
       <img src = "https://img.shields.io/badge/MaskPhish-2.0-green" />	  
   </a>
   <a href = "https://twitter.com/KaliLinux_in">
@@ -60,10 +60,10 @@ Sometimes Masked link is not generating properly. In that case we need to use VP
 
 ```bash
 # Clone the repository 
-git clone https://github.com/jaykali/maskphish
+git clone https://github.com/HEDI95/adei.git
 
 # Enter into the directory
-cd maskphish
+cd adei
 
 # Run the script
 bash maskphish.sh
